@@ -1,5 +1,6 @@
 package com.qa.testcases;
 
+/*************************************** PURPOSE **********************************/
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
