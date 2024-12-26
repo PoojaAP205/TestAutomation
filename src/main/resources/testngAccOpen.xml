@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HSBC Automation Regression Test Suite">
+    
+    <test name="Hsbc TestCases">
+       
+        <classes>
+            <class name="com.qa.testcases.LoginPageTest"> </class>
+             <class name="com.qa.testcases.LPtoAccOpenTest"></class>
+             <class name="com.qa.testcases.AccountTypePageTest"> </class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="9" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-24T11:00:03 IST" name="HSBC Automation Regression Test Suite" finished-at="2024-12-24T11:01:49 IST" duration-ms="106814">
+    <groups>
+    </groups>
+    <test started-at="2024-12-24T11:00:03 IST" name="Hsbc TestCases" finished-at="2024-12-24T11:01:49 IST" duration-ms="106814">
+      <class name="com.qa.testcases.UserPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:00:44 IST" name="setUp" finished-at="2024-12-24T11:00:52 IST" duration-ms="8011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCreateNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:00:52 IST" name="validateCreateNewUser" data-provider="getUserTestData" finished-at="2024-12-24T11:00:56 IST" duration-ms="3941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pooja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C0554147]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.685745632E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pooja@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Main Branch, Mumbai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ACE ADMIN]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Branch Banking]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Karan Singh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:00:56 IST" name="tearDown" finished-at="2024-12-24T11:00:56 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:00:56 IST" name="setUp" finished-at="2024-12-24T11:01:04 IST" duration-ms="7941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCreateNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:04 IST" name="validateCreateNewUser" data-provider="getUserTestData" finished-at="2024-12-24T11:01:07 IST" duration-ms="2708" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C0554148]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.685745633E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test1@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[UAE]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Frontline]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[MSF]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Karan Singh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:07 IST" name="tearDown" finished-at="2024-12-24T11:01:08 IST" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:08 IST" name="setUp" finished-at="2024-12-24T11:01:15 IST" duration-ms="7142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCreateNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:15 IST" name="validateCreateNewUser" data-provider="getUserTestData" finished-at="2024-12-24T11:01:37 IST" duration-ms="22386" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C0554149]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.685745634E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test2@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hyderabad]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Business]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[User Admin]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Karan Singh]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate element with text: User Admin
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'POOJAN-D', ip: '192.168.40.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate element with text: User Admin
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'POOJAN-D', ip: '192.168.40.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:151)
+at com.qa.pages.UserPage.createNewUser(UserPage.java:69)
+at com.qa.testcases.UserPageTest.validateCreateNewUser(UserPageTest.java:50)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:37 IST" name="tearDown" finished-at="2024-12-24T11:01:37 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:37 IST" name="setUp" finished-at="2024-12-24T11:01:46 IST" duration-ms="9009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCreateNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:46 IST" name="validateCreateNewUser" data-provider="getUserTestData" finished-at="2024-12-24T11:01:49 IST" duration-ms="2523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C0554150]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.685745634E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test3@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Jaipur]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ACE ADMIN]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Branch Banking]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Karan Singh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.UserPageTest@5f049ea1]" started-at="2024-12-24T11:01:49 IST" name="tearDown" finished-at="2024-12-24T11:01:49 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.UserPageTest -->
+      <class name="com.qa.testcases.LPtoCmdCentralTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:22 IST" name="setUp" finished-at="2024-12-24T11:00:26 IST" duration-ms="4165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLandingPageTitleTest()[pri:1, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:26 IST" name="verifyLandingPageTitleTest" finished-at="2024-12-24T11:00:27 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLandingPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:27 IST" name="tearDown" finished-at="2024-12-24T11:00:27 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:27 IST" name="setUp" finished-at="2024-12-24T11:00:32 IST" duration-ms="4343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogonToLabelTest()[pri:2, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:32 IST" name="verifyLogonToLabelTest" finished-at="2024-12-24T11:00:32 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogonToLabelTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:32 IST" name="tearDown" finished-at="2024-12-24T11:00:32 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:32 IST" name="setUp" finished-at="2024-12-24T11:00:36 IST" duration-ms="4259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCommandCentralTest()[pri:3, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:36 IST" name="verifyCommandCentralTest" finished-at="2024-12-24T11:00:42 IST" duration-ms="5436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommandCentralTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LPtoCmdCentralTest@3f191845]" started-at="2024-12-24T11:00:42 IST" name="tearDown" finished-at="2024-12-24T11:00:42 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LPtoCmdCentralTest -->
+      <class name="com.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:03 IST" name="setUp" finished-at="2024-12-24T11:00:12 IST" duration-ms="8829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:12 IST" name="loginPageTitleTest" finished-at="2024-12-24T11:00:12 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:12 IST" name="tearDown" finished-at="2024-12-24T11:00:12 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:12 IST" name="setUp" finished-at="2024-12-24T11:00:16 IST" duration-ms="3716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoTest()[pri:2, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:16 IST" name="LogoTest" finished-at="2024-12-24T11:00:16 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:16 IST" name="tearDown" finished-at="2024-12-24T11:00:16 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:16 IST" name="setUp" finished-at="2024-12-24T11:00:20 IST" duration-ms="3383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:20 IST" name="loginTest" finished-at="2024-12-24T11:00:22 IST" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@78e4deb0]" started-at="2024-12-24T11:00:22 IST" name="tearDown" finished-at="2024-12-24T11:00:22 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LoginPageTest -->
+    </test> <!-- Hsbc TestCases -->
+  </suite> <!-- HSBC Automation Regression Test Suite -->
+</testng-results>

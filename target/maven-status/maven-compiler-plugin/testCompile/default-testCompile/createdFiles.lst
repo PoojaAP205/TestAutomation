@@ -1,0 +1,5 @@
+com\qa\testcases\LPtoAccOpenTest.class
+com\qa\testcases\LoginPageTest.class
+com\qa\testcases\AccountTypePageTest.class
+com\qa\testcases\LPtoCmdCentralTest.class
+com\qa\testcases\UserPageTest.class
